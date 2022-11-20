@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ad90f368-035e-4062-a945-6d11643049de",
+    "data": [
+      {
+        "text": "Cheese Crust Pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9487991f-1437-4a52-8ea3-743b861ee662",
+    "data": [
+      {
+        "text": "Flatbread Crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9af646b-7b9a-4490-8b51-7f4917a94fc0",
+    "data": [
+      {
+        "text": "Cracker Crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b21bb71-8010-42d8-80b8-2edd473d1a84",
+    "data": [
+      {
+        "text": "Thick Crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd11932a-3098-44e8-83c0-fdfb4c9b9019",
+    "data": [
+      {
+        "text": "Thin Crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b478afa-6fb6-4dc6-b1bb-34f4acc73b80",
+    "data": [
+      {
+        "text": "Stuffed Crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

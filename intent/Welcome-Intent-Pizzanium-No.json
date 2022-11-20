@@ -1,0 +1,40 @@
+{
+  "id": "3799edef-dde9-458f-8e7d-76e78bfa8738",
+  "parentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-No",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "“Please call our store at  this number 1-800-PIZZA for further assistance”"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

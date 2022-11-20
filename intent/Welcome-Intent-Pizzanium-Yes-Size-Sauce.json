@@ -1,0 +1,44 @@
+{
+  "id": "0b6ae565-c1f0-4962-98cd-467b603d4488",
+  "parentId": "b2d67563-ffd2-4168-b091-e3f9023c6f18",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-Yes-Size-Sauce",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-yes-size-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-yes.WelcomeIntentPizzanium-yes-custom.WelcomeIntentPizzanium-yes-size-custom",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntentPizzanium-yes-size-sauce-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your pizza comes with your 3 favorite toppings. Please type your favorite toppings :\nPepperoni\nCanadian bacon\nPineapple\nAnchovies\nCauliflower\nMushroom\nTomato\nSweetcorn"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

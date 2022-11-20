@@ -1,0 +1,44 @@
+{
+  "id": "6e61d768-082e-4905-9b4c-56abaaa6e72f",
+  "name": "Payment-Pizzanium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment-Pizzanium-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "raffle-randomizer",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hey! Would you like to enter a raffle to make your order today free? \nYes\nNo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

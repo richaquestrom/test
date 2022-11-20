@@ -1,0 +1,44 @@
+{
+  "id": "7dfcee09-7c6a-4dc7-9f39-4e9d1b44c0fc",
+  "parentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-Yes",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-yes",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntentPizzanium-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What size pizza would you like to order?\nSmall\nMedium\nLarge"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

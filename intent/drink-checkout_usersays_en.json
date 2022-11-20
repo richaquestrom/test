@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c5dde348-96ea-4478-a992-21f35e321a1c",
+    "data": [
+      {
+        "text": "Not now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f54f3596-5e3a-4db5-8130-06640ab02f56",
+    "data": [
+      {
+        "text": "Sure, go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

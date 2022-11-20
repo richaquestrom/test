@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c35c1722-4682-42e2-86eb-11adc5d5e03b",
+    "data": [
+      {
+        "text": "White",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e52df4d4-edcb-4172-8b82-294c32d40c3d",
+    "data": [
+      {
+        "text": "Red",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

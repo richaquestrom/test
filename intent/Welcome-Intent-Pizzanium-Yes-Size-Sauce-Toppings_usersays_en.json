@@ -1,0 +1,106 @@
+[
+  {
+    "id": "4b53a18e-7be0-4d70-86fd-31f66ce11fe8",
+    "data": [
+      {
+        "text": "Mushroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da72e694-bcf8-4e22-bf93-c342ccaf1dea",
+    "data": [
+      {
+        "text": "Cauliflower",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d82bc0e2-7786-44b5-b400-9811bfcb74e3",
+    "data": [
+      {
+        "text": "Anchovies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaa216c9-5ce8-4028-b48d-d31af18fa8f9",
+    "data": [
+      {
+        "text": "Canadian bacon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff61d897-c35d-483f-b79e-04dcc34738cf",
+    "data": [
+      {
+        "text": "Pepperoni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "293ac93b-c74f-4036-aef6-afa2aa6321e1",
+    "data": [
+      {
+        "text": "Sweetcorn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ea6fcf-d941-4aa3-b4e5-0290672ac46d",
+    "data": [
+      {
+        "text": "Tomato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffd33ff7-4116-409f-af9f-b4f627e67a7d",
+    "data": [
+      {
+        "text": "Pineapple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

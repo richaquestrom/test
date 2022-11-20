@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a8814dfd-f776-4ab7-b84a-2edc620de6cf",
+    "data": [
+      {
+        "text": "Raffle yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2177052b-fb15-45fb-beeb-8169897e8127",
+    "data": [
+      {
+        "text": "Raffle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f018915-e637-4232-b91c-5c44b4f8334f",
+    "data": [
+      {
+        "text": "Not interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10d1bd6b-dc42-449d-aa03-d7591c295202",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40308c8a-49e1-4afd-a858-4acd44a3784b",
+    "data": [
+      {
+        "text": "I am interseted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f873ae20-43b0-4c98-aadf-b120e23c3e0d",
+    "data": [
+      {
+        "text": "Yes i will",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1be1ed0b-5c6a-4483-bb78-e2d74242fed1",
+    "data": [
+      {
+        "text": "Yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "24c23db9-42bd-4074-9a6a-66185d787268",
+  "parentId": "0b6ae565-c1f0-4962-98cd-467b603d4488",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-Yes-Size-Sauce-Toppings",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-yes-size-sauce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-yes.WelcomeIntentPizzanium-yes-custom.WelcomeIntentPizzanium-yes-size-custom.WelcomeIntentPizzanium-yes-size-sauce-custom",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntentPizzanium-yes-size-sauce-toppings-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are doing great! How would you like your crust? \nStuffed Crust\nThin Crust\nThick Crust\nCracker Crust\nCheese Crust Pizza\nChicago Deep Dish\nSicilian-Style Crust"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

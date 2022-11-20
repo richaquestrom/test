@@ -1,0 +1,44 @@
+{
+  "id": "b2d67563-ffd2-4168-b091-e3f9023c6f18",
+  "parentId": "7dfcee09-7c6a-4dc7-9f39-4e9d1b44c0fc",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-Yes-Size",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-yes.WelcomeIntentPizzanium-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntentPizzanium-yes-size-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like red sauce or white sauce?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b69dab08-72e1-4972-958a-2263a2d022e6",
+  "parentId": "6e61d768-082e-4905-9b4c-56abaaa6e72f",
+  "rootParentId": "6e61d768-082e-4905-9b4c-56abaaa6e72f",
+  "name": "Payment-Pizzanium-End-Conversation",
+  "auto": true,
+  "contexts": [
+    "raffle-randomizer",
+    "Payment-Pizzanium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Payment-Pizzanium.Payment-Pizzanium-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for ordering today! Your pizza will be delivered shortly."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

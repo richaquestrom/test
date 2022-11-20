@@ -1,0 +1,28 @@
+[
+  {
+    "id": "10a073d5-07a3-4ec6-a9ae-9b449d96f518",
+    "data": [
+      {
+        "text": "Credit Card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81fa08fc-a516-461b-a04f-9a8ea7e740f0",
+    "data": [
+      {
+        "text": "Cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

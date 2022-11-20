@@ -1,0 +1,44 @@
+{
+  "id": "b3e6e34b-ebbb-4e16-8a7d-46d458fe3d9c",
+  "parentId": "24c23db9-42bd-4074-9a6a-66185d787268",
+  "rootParentId": "c3d09c5d-9432-49f6-b375-1c219824fbaa",
+  "name": "Welcome-Intent-Pizzanium-yes-size-sauce-toppings-crust",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntentPizzanium-yes-size-sauce-toppings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntentPizzanium.WelcomeIntentPizzanium-yes.WelcomeIntentPizzanium-yes-custom.WelcomeIntentPizzanium-yes-size-custom.WelcomeIntentPizzanium-yes-size-sauce-custom.WelcomeIntentPizzanium-yes-size-sauce-toppings-custom",
+      "affectedContexts": [
+        {
+          "name": "drink-checkout",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you! Your pizza is now being prepared in the oven. Would you like to try our orange flavored in-house drink?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
