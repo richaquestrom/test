@@ -1,0 +1,14 @@
+[
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "I am sorry about that.  How might I be able to help you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "Fantastic!  How can I help you?\nI am doing well, thank you.  What can I help you with today?"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "MyFancyAgent",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": true,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "3799edef-dde9-458f-8e7d-76e78bfa8738",
+      "15d5915c-3e68-4702-bf88-f3c14d185b00",
+      "b69dab08-72e1-4972-958a-2263a2d022e6"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-east4-richa19-is883.cloudfunctions.net/raffle-randomizer",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "434eaf3b5c484f16a6b73d3c6f065716",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/richa19-is883/knowledgeBases/Mjg0MDQ5NjQ4MTEzODM3NjcwNA"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
